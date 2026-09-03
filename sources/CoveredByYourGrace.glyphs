@@ -12222,7 +12222,7 @@ layerId = "babelfont/sfd/master/Regular";
 name = Fore;
 shapes = (
 {
-pos = (6,288);
+pos = (4,144);
 ref = a;
 scale = (0.6676,0.5009);
 }
@@ -12995,7 +12995,7 @@ layerId = "babelfont/sfd/master/Regular";
 name = Fore;
 shapes = (
 {
-pos = (8,239);
+pos = (5,132);
 ref = two;
 scale = (0.5811,0.5522);
 }
@@ -13013,7 +13013,7 @@ layerId = "babelfont/sfd/master/Regular";
 name = Fore;
 shapes = (
 {
-pos = (7,256);
+pos = (3,138);
 ref = three;
 scale = (0.4709,0.5379);
 }
@@ -13444,7 +13444,7 @@ layerId = "babelfont/sfd/master/Regular";
 name = Fore;
 shapes = (
 {
-pos = (5,297);
+pos = (4,149);
 ref = one;
 scale = (0.7653,0.5025);
 }
@@ -13462,7 +13462,7 @@ layerId = "babelfont/sfd/master/Regular";
 name = Fore;
 shapes = (
 {
-pos = (12,239);
+pos = (6,107);
 ref = o;
 scale = (0.5223,0.4495);
 }
@@ -13633,17 +13633,17 @@ layerId = "babelfont/sfd/master/Regular";
 name = Fore;
 shapes = (
 {
-pos = (2,271);
+pos = (2,148);
 ref = one;
 scale = (0.9081,0.5461);
 },
 {
-pos = (37,-49);
+pos = (37,-40);
 ref = slash;
 scale = (1.0124,0.8291);
 },
 {
-pos = (227,5);
+pos = (178,3);
 ref = four;
 scale = (0.7827,0.6858);
 }
@@ -13661,17 +13661,17 @@ layerId = "babelfont/sfd/master/Regular";
 name = Fore;
 shapes = (
 {
-pos = (7,234);
+pos = (5,142);
 ref = one;
 scale = (0.7041,0.608);
 },
 {
-pos = (67,-13);
+pos = (58,-9);
 ref = slash;
 scale = (0.8714,0.7209);
 },
 {
-pos = (239,23);
+pos = (180,16);
 ref = two;
 scale = (0.7523,0.6923);
 }
@@ -13689,17 +13689,17 @@ layerId = "babelfont/sfd/master/Regular";
 name = Fore;
 shapes = (
 {
-pos = (4,224);
+pos = (3,133);
 ref = three;
 scale = (0.687,0.5956);
 },
 {
-pos = (184,-25);
+pos = (166,-17);
 ref = slash;
 scale = (0.9004,0.7057);
 },
 {
-pos = (367,23);
+pos = (267,15);
 ref = four;
 scale = (0.7277,0.6706);
 }
